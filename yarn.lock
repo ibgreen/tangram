@@ -6495,7 +6495,7 @@ __metadata:
     "@math.gl/core": "npm:^4.1.0"
     "@vis.gl/tangram-layers": "workspace:^"
     "@vis.gl/tangram-renderer": "workspace:^"
-    mjolnir.js: "npm:^3.1.0"
+    mjolnir.js: "npm:^3.1.1"
   languageName: unknown
   linkType: soft
 
@@ -14053,13 +14053,6 @@ __metadata:
   dependencies:
     minipass: "npm:^7.1.2"
   checksum: 10c0/5aad75ab0090b8266069c9aabe582c021ae53eb33c6c691054a13a45db3b4f91a7fb1bd79151e6b4e9e9a86727b522527c0a06ec7d45206b745d54cd3097bcec
-  languageName: node
-  linkType: hard
-
-"mjolnir.js@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "mjolnir.js@npm:3.1.0"
-  checksum: 10c0/f042757190671a4072e13dd81dd075d92390643323e972080779b9521e3e296e9c4702fc1b42150ebd67d137f7a01b124b9548ce90aa934e21f2ba4fc240f1f8
   languageName: node
   linkType: hard
 

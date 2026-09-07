@@ -15,6 +15,6 @@
     "@math.gl/core": "^4.1.0",
     "@vis.gl/tangram-layers": "workspace:^",
     "@vis.gl/tangram-renderer": "workspace:^",
-    "mjolnir.js": "^3.1.0"
+    "mjolnir.js": "^3.1.1"
   }
 }

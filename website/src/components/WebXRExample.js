@@ -72,7 +72,7 @@ export default function WebXRExample({viewMode = 'globe'}) {
         '@vis.gl/tangram-layers': `${layersUrl}?embedded=webxr`,
         '@vis.gl/tangram-layers/experimental/webxr': `${webXRUrl}?embedded=webxr`,
         '@vis.gl/tangram-renderer': `${rendererUrl}?embedded=webxr`,
-        'mjolnir.js': 'https://esm.sh/mjolnir.js@3.1.0?bundle'
+        'mjolnir.js': 'https://esm.sh/mjolnir.js@3.1.1?bundle'
       }
     });
     document.head.appendChild(importMapElement);
